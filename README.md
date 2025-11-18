@@ -26,8 +26,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="" height="30" alt="Bootstrap logo"  />
-  <img src="" height="30" alt="sweetAlert logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" height="30" alt="Bootstrap logo"  />
+  <img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/main/libraries/sweetalert.png" height="30" alt="sweetAlert logo"  />
 </div>
 
 ###
